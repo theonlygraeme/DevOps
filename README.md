@@ -1,2 +1,2 @@
 # DevOps
-Training
+Training day
